@@ -1,6 +1,8 @@
 # Tchibo's AI Solution 
- View the CASE STUDY- TCHIBO CUSTOM GPT (AI) .PDF file attached.
- USER EXPERIENCE RESEARCH
- USER EXPEREIENCE DESIGN
- UI Solution
- Transforming user experience through research-driven insights and competitive benchmarking.
+
+
+ 1. View the CASE STUDY- TCHIBO CUSTOM GPT (AI) .PDF file attached.
+ 2. USER EXPERIENCE RESEARCH
+ 3. USER EXPERIENCE DESIGN
+ 4. UI Solution
+ 5. Transforming user experience through research-driven insights and competitive benchmarking.
